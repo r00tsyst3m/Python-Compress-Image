@@ -14,7 +14,7 @@ Install PIL or Pillow
 ## Usage
 1. Download above python script. 
 
-2. Create directory named "input" in same directory where above python code it present.
+2. Create directory named "input" and "output" in same directory where above python code it present.
 
 3. Put All your images that has to be compressed inside "input" directory 
 
